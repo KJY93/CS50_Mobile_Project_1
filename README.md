@@ -18,7 +18,7 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 - User is able to input any arbitrary time for the timers (for both work time and break time)
 
 ## Getting started
-You will need Expo, Expo Client (download this from Apple App Store so that the app can run on your phone), Node.js and NPM installed. After that, install all the app's dependencies by running the `npm install` command in your terminal. To start up the app, run the `npm start` command in your terminal. The Expo interface will then be popped up in a browser. User will then have the option to choose on which platform they would want their app to run on, i.e. Android simulator / iOS simulator / web browser etc. To run the app on your phone, simply scam the QR code and the app will be started in the Expo Client app.
+You will need Expo, Expo Client (download this from Apple App Store so that the app can run on your phone), Node.js and NPM installed. After that, install all the app's dependencies by running the `npm install` command in your terminal. To start up the app, run the `npm start` command in your terminal. The Expo interface will then be popped up in a browser. User will then have the option to choose on which platform they would want their app to run on, i.e. Android simulator / iOS simulator / web browser etc. To run the app on your phone, simply scan the QR code and the app will be started in the Expo Client app.
 
 ## Technologies Used
 - JavaScript
